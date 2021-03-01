@@ -1,5 +1,5 @@
 {
-  "name": "@videowiki/vendors",
+  "name": "@comet-anuvaad/vendors",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/videowiki/vendors.git"
+    "url": "git+https://github.com/project-anuvaad/COMET-Vendors.git"
   },
   "author": "Hassan Amin",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/videowiki/vendors/issues"
+    "url": "https://github.com/project-anuvaad/COMET-Vendors/issues"
   },
-  "homepage": "https://gitlab.com/videowiki/vendors#readme",
+  "homepage": "https://github.com/project-anuvaad/COMET-Vendors#readme",
   "dependencies": {
     "@google-cloud/text-to-speech": "^1.4.0",
     "@google-cloud/translate": "^4.1.2",
